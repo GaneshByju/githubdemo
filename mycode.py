@@ -1,8 +1,6 @@
 import mymodule
 print("first line")
 print("second line")
-print("third/ / / / / / line")
+print("my most latest third line")
 
-
-
-print("latest fourth line")
+print("change for second commit")
